@@ -9,9 +9,7 @@ venv/
 .env
 
 # Data and Models (Too large for Git)
-data/*.csv
-data/*.pt
-models/*.pth
+
 
 # Jupyter Notebooks
 .ipynb_checkpoints
